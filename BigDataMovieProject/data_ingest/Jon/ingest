@@ -1,0 +1,5 @@
+hdfs dfs -put tags.csv
+hdfs dfs -put ratings.csv
+hdfs dfs -put movies.csv
+hdfs dfs -put links.csv
+hdfs dfs -put api_script.py
