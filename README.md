@@ -30,7 +30,7 @@ In addition to the previously mentioned tools we also learned the fundamentals o
 - **Flume**, a service for efficiently collecting, aggregating, and moving large amounts of log data, 
 - and **Kafka**, a distributed streaming platform capable of handling trillions of events a day.
 
-## Contents of This Repository
+## Contents of this Repository
 
 This repository contains some of the coursework, including assignments and a comprehensive class project, where I applied the previously mentioned technologies to different problems and real-world data scenarios. Each folder within the repository is dedicated to a specific assignment or the project and contains detailed documentation, code, and analysis.
 ### [Assignment 1](https://github.com/PetraIvanovic8/Processing-Big-Data/tree/6a6fe4bd0fba7efbd4c3f79368c19e2d4edc0759/Assignment%201 "See Assignment 1")
